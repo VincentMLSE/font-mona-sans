@@ -1,6 +1,6 @@
 # Mona Sans
 
-[Download Mona Sans](https://github.com/01632c54-610e-40fc-98e3-d4749b51c030) • [Typeface microsite](https://github.com/mona-sans) ↗️
+[Download Mona Sans](https://github.com/github/mona-sans/releases/latest) • [Typeface microsite](https://github.com/mona-sans) ↗️
 
 A strong and versatile typeface, designed together with [Degarism](https://degarism.com/) and inspired by industrial-era grotesques. Mona Sans works well across product, web, and print. Made to work well together with  Mona Sans's sidekick, [Hubot Sans](https://github.com/github/hubot-sans).
 
